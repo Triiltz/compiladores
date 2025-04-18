@@ -1,0 +1,2 @@
+inteiro x;
+x = 10;

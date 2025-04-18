@@ -1,0 +1,7 @@
+<inteiro, palavra_reservada>
+<x, identificador>
+<;, delimitador>
+<x, identificador>
+<=, operador_atribuicao>
+<10, numero>
+<;, delimitador>
